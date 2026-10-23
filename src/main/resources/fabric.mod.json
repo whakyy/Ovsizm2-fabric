@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "ovcism",
+  "version": "${version}",
+  "name": "Ovcism - ОВЦИЗМ",
+  "description": "A silly sheep disease mod.",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["ru.boss.OvcismMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
